@@ -45,6 +45,4 @@ obj.login()
 
 
 
-url = 'https://www.saucedemo.com/'
-obj = LoginAutomation(url, 'standard_user', 'secret_sauce')
-obj.login()
+
